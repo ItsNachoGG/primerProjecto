@@ -93,7 +93,8 @@
     flex-direction:row;
     justify-content:center;
     align-items:center;
-    padding-top:20px;
+    padding:20px 0px;
+    margin: 0px;
   }
   
   footer ul li a{
